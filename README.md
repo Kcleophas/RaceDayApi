@@ -46,17 +46,12 @@ This project demonstrates practical software development skills including databa
 
 # 🛠 Technologies Used
 
-| Technology | Purpose |
-|------------|----------|
-| ASP.NET Core Web API | Backend Development |
-| C# | Programming Language |
-| Entity Framework Core | Database Operations |
-| SQL Server | Database Storage |
-| Swagger UI | API Testing & Documentation |
-| xUnit | Unit Testing |
-| GitHub | Version Control |
-| GitHub Actions | Continuous Integration |
-| Visual Studio 2026 | Development Environment |
+## Development Tools
+
+- Visual Studio 2026
+- SQL Server Management Studio
+- GitHub Desktop
+- GitHub Actions
 
 ---
 
