@@ -30,29 +30,17 @@ This project demonstrates practical software development skills including databa
 
 # 🎯 Part 2 Requirements Implemented
 
-✅ ASP.NET Core Web API
+# ⭐ Key Features
 
-✅ Entity Framework Core
-
-✅ SQL Server Database
-
-✅ CRUD Operations
-
-✅ Authentication System
-
-✅ DTO Implementation
-
-✅ Database Migrations
-
-✅ Swagger Documentation
-
-✅ Unit Testing with xUnit
-
-✅ GitHub Repository
-
-✅ GitHub Actions CI/CD Pipeline
-
-✅ Source Control and Version History
+- User Registration
+- User Login
+- Event Management
+- Category Management
+- Participant Enrolments
+- Race Results
+- Swagger API Documentation
+- Unit Testing
+- GitHub Actions CI/CD
 
 ---
 
