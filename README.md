@@ -219,13 +219,12 @@ Swagger UI was used to document and test all API endpoints during development.
 
 Unit testing was implemented using xUnit to verify application functionality.
 
-The tests validate:
+### Benefits of Unit Testing
 
-- User Registration
-- User Login
-- Event Creation
-- Event Deletion
-- Application Validation Logic
+- Improves reliability
+- Detects bugs early
+- Verifies functionality
+- Supports maintainability
 
 ![Unit Tests](https://github.com/Kcleophas/RaceDayApi/blob/main/RaceDay.Api/Screenshoots/Unit%20Test.png)
 
