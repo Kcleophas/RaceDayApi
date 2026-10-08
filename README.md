@@ -232,6 +232,14 @@ The tests validate:
 **Figure 2:** Successful execution of all unit tests showing 5 tests passed and 0 failures.
 
 ---
+### Swagger Benefits
+
+- Endpoint testing
+- API documentation
+- Request validation
+- Faster debugging
+
+---
 
 ## GitHub Actions Continuous Integration
 
