@@ -371,7 +371,7 @@ A complete demonstration of the RaceDay Event Management API can be viewed below
 
 🔗 **YouTube Demonstration:**
 
-[Watch the RaceDay Part 2 Demonstration](PASTE-YOUR-YOUTUBE-LINK-HERE)
+[Watch the RaceDay Part 2 Demonstration](https://youtu.be/3YIFGLTgxko)
 
 The demonstration includes:
 
