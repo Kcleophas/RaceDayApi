@@ -10,7 +10,7 @@
 | Student Name | Kezia Cleophas |
 | Student Number | ST10483194 |
 | Module | Programming 2B |
-| Assessment | Part 2 Portfolio of Evidence |
+|  | Part 2 Portfolio of Evidence |
 | Project | RaceDay Event Management API |
 
 
